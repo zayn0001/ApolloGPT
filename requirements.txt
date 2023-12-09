@@ -3,3 +3,4 @@ mangum
 langchain
 beautifulsoup4
 openai
+uvicorn         
