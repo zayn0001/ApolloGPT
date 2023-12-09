@@ -1,0 +1,5 @@
+fastapi
+mangum
+langchain
+beautifulsoup4
+openai
