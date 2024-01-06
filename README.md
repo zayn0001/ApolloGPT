@@ -1,0 +1,1 @@
+The Apollo API is a real-time augmentation of Google's PaLM API, leveraging live Google search data to empower the Language Model with current information. It enhances response accuracy for real-time queries, especially in dynamic contexts such as current affairs, providing a more informed and up-to-date user experience. Still in the works
